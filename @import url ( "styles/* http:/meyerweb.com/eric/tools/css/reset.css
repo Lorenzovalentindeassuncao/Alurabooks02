@@ -1,0 +1,137 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   Licença: nenhuma (domínio público)
+*/
+
+html ,
+corpo ,
+div ,
+extensão ,
+miniaplicativo ,
+objeto ,
+iframe ,
+h1 ,
+h2 ,
+h3 ,
+h4 ,
+h5 ,
+h6 ,
+p ,
+citação em bloco ,
+pré ,
+um ,
+abreviatura ,
+sigla ,
+endereço ,
+grande ,
+citar ,
+código ,
+del ,
+dfn ,
+em ,
+imagem ,
+ins ,
+kbd ,
+q ,
+s ,
+amostra ,
+pequeno ,
+greve ,
+forte ,
+sub ,
+jantar ,
+tt ,
+var ,
+b ,
+você ,
+eu ,
+centro ,
+dl ,
+dt ,
+dd ,
+olá ,
+ul ,
+li ,
+conjunto de campos ,
+forma ,
+etiqueta ,
+lenda ,
+mesa ,
+legenda ,
+corpo ,
+pé ,
+cabeça ,
+tr ,
+ª ,
+td ,
+artigo ,
+de lado ,
+tela ,
+detalhes ,
+incorporar ,
+figura ,
+legenda de figurinha ,
+rodapé ,
+cabeçalho ,
+hgroup ,
+cardápio ,
+navegação ,
+saída ,
+rubi ,
+seção ,
+resumo ,
+tempo ,
+marca ,
+áudio ,
+vídeo {
+    margem :  0 ;
+    preenchimento :  0 ;
+    borda :  0 ;
+    tamanho da fonte :  100 % ;
+    fonte : herdar;
+    alinhamento vertical : linha de base;
+}
+
+/* Redefinição da função de exibição HTML5 para navegadores mais antigos */
+artigo ,
+de lado ,
+detalhes ,
+legenda de figurinha ,
+figura ,
+rodapé ,
+cabeçalho ,
+hgroup ,
+cardápio ,
+navegação ,
+seção {
+    exibição : bloco;
+}
+
+corpo {
+    altura da linha :  1 ;
+}
+
+olá ,
+ul {
+    estilo de lista : nenhum;
+}
+
+citação em bloco ,
+q {
+    aspas : nenhuma;
+}
+
+citação de bloco : antes ,
+citação de bloco : depois ,
+q : antes ,
+q : depois {
+    conteúdo :  '' ;
+    conteúdo : nenhum;
+}
+
+tabela {
+    border-collapse : colapso;
+    espaçamento entre bordas :  0 ;
+}
+Rodapé
+© 2023 GitHub, Inc.
